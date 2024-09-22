@@ -3,7 +3,7 @@ import { ReactNode } from 'react';
 
 const Team = (): ReactNode => {
     return (
-        <div className="py-2">
+        <div className="py-2" id="team">
           <div className="text-xl font-bold pb-2">Team Members and Planned Roles</div>
           <p><span className="font-medium">Sophia Wu</span> - Project Manager, Front-end Developer, Full-stack Developer</p>
           <p><span className="font-medium">Brock Pace</span> - Back-end Developer, Full-stack Developer </p>

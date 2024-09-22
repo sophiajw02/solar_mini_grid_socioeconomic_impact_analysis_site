@@ -3,12 +3,16 @@ import { ReactNode } from 'react';
 
 const About = (): ReactNode => {
     return (
-        <div className="flex flex-col">
+        <div className="flex flex-col" id="about">
+            <div className="pb-2">
+                <p className="text-3xl font-bold">Team P4B</p>
+                <p className="text-2xl font-semibold text-blue-900">Solar Mini-Grid: Socioeconomic Impact Analysis</p>
+            </div>
             <div className="py-2">
               <div className="text-xl font-bold pb-2">Project Description</div>
               <p>Earlier this year in 2024, Renewvia published the first-ever peer-reviewed, comprehensive socioeconomic impact analysis for mini-grids in rural Africa.
                 The data is open-source, and the statistical tools used in the paper to draw conclusions are all very general. Little attention was paid to subgroup analyses or correlations in results.
-                There is great potential for follow-up analyses to ask and answer interesting questions related to the impact of our work on communities and how better understanding that impact could influence the engineering design process.
+                There is great potential for follow-up analyses to ask and answer interesting questions related to the impact of Renewvia's work on communities and how better understanding that impact could influence the engineering design process.
                 </p>
             </div>
             <div className="py-2">

@@ -14,7 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Solar Mini-Grid: Socioeconomic Impact Analysis"
+  title: "Solar Mini-Grid: Socioeconomic Impact Analysis",
+  description: "Subgroup Analysis and Correlation Research into the Socioeconomic Impact of Solar Mini-Grid"
 };
 
 export default function RootLayout({
