@@ -1,0 +1,2 @@
+# solar_mini_grid_socioeconomic_impact_analysis_site
+ 
