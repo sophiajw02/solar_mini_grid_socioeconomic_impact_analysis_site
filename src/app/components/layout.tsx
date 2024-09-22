@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, Footer } from '@components';
+import { Nav } from '@components'; // add Footer back later
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
     return (
