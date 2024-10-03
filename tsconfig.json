@@ -22,7 +22,7 @@
       "@/*": ["./src/app/*"],
       "@components": ["src/app/components"],
       "@components/*": ["src/app/components/*"],
-      "@images": ["src/app/images"],
+      "@analysis/components": ["src/app/analysis/components"],
       "@config": ["src/app/config"]
     }
   },

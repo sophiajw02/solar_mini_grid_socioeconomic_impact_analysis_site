@@ -8,7 +8,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <div className='pt-20 p-12 gap-y-2 flex justify-center font-[family-name:var(--font-geist-sans)]'
           id="root"
         >
-            <div className=' max-w-screen-xl flex flex-col justify-center'
+            <div className='w-screen max-w-screen-xl flex flex-col justify-center'
               id="page_content"
             >
               {children}
