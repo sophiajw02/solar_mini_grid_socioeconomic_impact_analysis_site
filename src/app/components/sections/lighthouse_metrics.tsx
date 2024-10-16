@@ -4,6 +4,7 @@ import { ReactNode } from 'react';
 const Lighthouse = (): ReactNode => {
     return (
       <>
+        <div className='flex-grow my-4 border-t-2 border-blue-300 invisible md:visible'></div>
         <div className="text-xl font-bold pb-2">Lighthouse Scores</div>
         <div className="columns-2 pb-2" id="lighthouse">
           <div className="text-gray-600">
