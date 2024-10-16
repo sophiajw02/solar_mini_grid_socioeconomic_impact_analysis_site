@@ -9,7 +9,7 @@ export default function Analysis() {
             Page is Currently Under Development
             </p>
             <p>
-                This page will showcase all the raw data from Renewvia's research.
+                This page will showcase all the raw data from Renewvia&apos;s research.
             </p>
         </div>
     </Layout>
