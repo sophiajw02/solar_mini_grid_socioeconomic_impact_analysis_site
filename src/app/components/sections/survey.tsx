@@ -6,6 +6,14 @@ const Survey = (): ReactNode => {
         <div id="survey">
             <div className='flex-grow my-4 border-t-2 border-blue-300 invisible md:visible'></div>
             <div className="text-xl font-bold pb-2">Peer Evaluation Survey</div>
+            <div id="survey_status">
+                <p className='flex justify-center font-bold'>
+                Status: <span className='ml-2 text-red-500'>Incomplete</span>
+                </p>
+                <p className='flex justify-center pb-8'>
+                    Our website has not been fully updated for the Project Peer Evaluation. Please check back later.
+                </p>
+            </div>
             <p className='flex justify-center pb-2'>
                 Press the button below to access the peer evaluation survey. Please keep this page open to complete the tasks and use as reference for questions in the survey.
             </p>
