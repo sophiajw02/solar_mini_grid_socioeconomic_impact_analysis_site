@@ -23,6 +23,7 @@
       "@components": ["src/app/components"],
       "@components/*": ["src/app/components/*"],
       "@analysis/components": ["src/app/analysis/components"],
+      "@healthcare/components": ["src/app/analysis-healthcare/components"],
       "@config": ["src/app/config"]
     }
   },

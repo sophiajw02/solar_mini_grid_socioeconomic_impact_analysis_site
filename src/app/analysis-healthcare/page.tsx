@@ -1,11 +1,11 @@
 import { Layout } from '@components';
-import { Header, Education } from '@analysis/components';
+import { Header, Healthcare } from '@healthcare/components';
 
 export default function Analysis() {
   return (
     <Layout>
       <Header></Header>
-      <Education></Education>
+      <Healthcare></Healthcare>
     </Layout>
   );
 }

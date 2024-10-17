@@ -1,6 +1,5 @@
 import { ReactNode } from 'react';
 
-
 const Healthcare = (): ReactNode => {
     return (
         <div className="flex flex-col gap-y-2 mb-4" id="healthcare">

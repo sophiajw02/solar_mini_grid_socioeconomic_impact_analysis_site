@@ -17,7 +17,10 @@ const Nav = (): ReactNode => {
                 <a href="/data" className="font-semibold py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Renewvia Data</a>
               </li>
               <li>
-                <a href="/analysis" className="font-semibold py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Analysis</a>
+                <a href="/analysis" className="font-semibold py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Education Analysis</a>
+              </li>
+              <li>
+                <a href="/analysis-healthcare" className="font-semibold py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Healthcare Analysis</a>
               </li>
               {/* <li>
                 <a href="#team" className="font-semibold py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Team</a>
