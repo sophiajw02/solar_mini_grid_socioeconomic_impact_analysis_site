@@ -40,7 +40,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/4"
-                    src='\images\education\school performance change.png'
+                    src='\images\education\school_performance_change.png'
                     alt=''
                 />
             </div>
@@ -53,7 +53,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/4"
-                    src='\images\education\performance increase reason.png'
+                    src='\images\education\performance_increase_reason.png'
                     alt=''
                 />
             </div>
@@ -69,7 +69,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/4"
-                    src='\images\education\light usage time.png'
+                    src='\images\education\light_usage_time.png'
                     alt=''
                 />
             </div>
@@ -80,21 +80,21 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-4/5"
-                    src='\images\education\pre-survey light usage.png'
+                    src='\images\education\pre-survey_light_usage.png'
                     alt=''
                 />
             </div>
             <div className="flex justify-center">
                 <img
                     className="w-4/5"
-                    src='\images\education\post-survey light usage.png'
+                    src='\images\education\post-survey_light_usage.png'
                     alt=''
                 />
             </div>
             <div className="flex justify-center">
                 <img
                     className="w-4/5"
-                    src='\images\education\light primary source.png'
+                    src='\images\education\light_primary_source.png'
                     alt=''
                 />
             </div>
@@ -168,7 +168,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-4/5"
-                    src='\images\education\feature importance boys.png'
+                    src='\images\education\feature_importance_boys.png'
                     alt=''
                 />
             </div>
@@ -189,7 +189,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/5"
-                    src='\images\education\roc boys.png'
+                    src='\images\education\roc_boys.png'
                     alt=''
                 />
             </div>
@@ -251,7 +251,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-4/5"
-                    src='\images\education\feature importance girls.png'
+                    src='\images\education\feature_importance_girls.png'
                 />
             </div>
             <div className="bg-slate-200 p-4 mb-4 rounded-xl">
@@ -270,7 +270,7 @@ const Education = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/5"
-                    src='\images\education\roc girls.png'
+                    src='\images\education\roc_girls.png'
                     alt=''
                 />
             </div>
