@@ -117,7 +117,7 @@ const Healthcare = (): ReactNode => {
             <div className="flex justify-center">
                 <img
                     className="w-3/4"
-                    src='\images\healthcare\feature_importance_values.png'
+                    src='\images\healthcare\feature_importance_values_graph.png'
                     alt=''
                 />
             </div>
