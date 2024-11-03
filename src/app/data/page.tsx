@@ -11,6 +11,7 @@ export default function Analysis() {
             <p>
                 This page will showcase all the raw data from Renewvia&apos;s research.
             </p>
+
         </div>
     </Layout>
   );

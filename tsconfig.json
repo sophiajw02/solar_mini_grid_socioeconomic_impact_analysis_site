@@ -24,6 +24,7 @@
       "@components/*": ["src/app/components/*"],
       "@analysis/components": ["src/app/analysis/components"],
       "@healthcare/components": ["src/app/analysis-healthcare/components"],
+      "@team-info/components": ["src/app/team-info/components"],
       "@config": ["src/app/config"]
     }
   },

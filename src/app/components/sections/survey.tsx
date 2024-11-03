@@ -28,6 +28,9 @@ const Survey = (): ReactNode => {
                   </a>
               </div>
 
+            {/* Remove later if there are more sections */}
+            <div className='flex-grow my-4 border-t-2 border-blue-300 invisible md:visible'></div>
+
         </div>
     );
 };
